@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{68D08936-F177-A1D0-DE01-AEDDFE043951}") = "DroneControl", "Assembly-CSharp-firstpass.csproj", "{D5FD08A0-256C-72B5-02CC-E682BA217D14}"
+EndProject
+Project("{68D08936-F177-A1D0-DE01-AEDDFE043951}") = "DroneControl", "Assembly-CSharp.csproj", "{47FFD98B-8D91-63AA-EF81-E9EC4187CE19}"
+EndProject
+Project("{68D08936-F177-A1D0-DE01-AEDDFE043951}") = "DroneControl", "Assembly-CSharp-Editor.csproj", "{02EB4B04-4437-340B-5D8F-3F2861EC971D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5FD08A0-256C-72B5-02CC-E682BA217D14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5FD08A0-256C-72B5-02CC-E682BA217D14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5FD08A0-256C-72B5-02CC-E682BA217D14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5FD08A0-256C-72B5-02CC-E682BA217D14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47FFD98B-8D91-63AA-EF81-E9EC4187CE19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47FFD98B-8D91-63AA-EF81-E9EC4187CE19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47FFD98B-8D91-63AA-EF81-E9EC4187CE19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47FFD98B-8D91-63AA-EF81-E9EC4187CE19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02EB4B04-4437-340B-5D8F-3F2861EC971D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02EB4B04-4437-340B-5D8F-3F2861EC971D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02EB4B04-4437-340B-5D8F-3F2861EC971D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02EB4B04-4437-340B-5D8F-3F2861EC971D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
